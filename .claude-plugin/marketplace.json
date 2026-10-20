@@ -1,0 +1,20 @@
+{
+  "name": "edulazaro",
+  "owner": {
+    "name": "Eduardo Lazaro Rodriguez",
+    "email": "edu@edulazaro.com"
+  },
+  "description": "Laravel tooling for Claude Code by Edu Lazaro.",
+  "plugins": [
+    {
+      "name": "laraclaude",
+      "source": "./",
+      "description": "The ultimate Laravel toolkit for Claude Code. Migration consolidation, model analysis, N+1 detection, Volt scaffolding, and more.",
+      "category": "development",
+      "keywords": ["laravel", "php", "livewire", "volt", "eloquent", "migrations"],
+      "homepage": "https://github.com/edulazaro/laraclaude",
+      "repository": "https://github.com/edulazaro/laraclaude",
+      "license": "MIT"
+    }
+  ]
+}
